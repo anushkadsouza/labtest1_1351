@@ -16,6 +16,6 @@ public class closing {
 	
 	void display(){
 		if(closebuttn=="removed")
-		System.out.println("The closing button is pressed.\nThe unit is swiched off");
+		System.out.println("\nThe closing button is pressed.\nThe unit is swiched off\n");
 	}
 }

@@ -19,7 +19,19 @@ public class control_unit {
 	
 	
 	
-	public void total(){
+	public int total(){
+		
+		
+		return 0;
+		
+	}
+	
+	public void display(){
+		if(onlmp=="on"){
+			System.out.println("Red light glowed.The unit is on\n");
+		}
+		
+		
 		
 	}
 }

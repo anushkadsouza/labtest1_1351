@@ -1,5 +1,7 @@
 package EVM;
 
+import java.util.ArrayList;
+
 public class voterlist {
 
 	String vname;
@@ -17,6 +19,7 @@ public class voterlist {
 		this.sign = sign;
 	}
 	
-	
-	
+	/*
+	ArrayList<String> vl=new ArrayList<String>();
+	vl.add("abcd","a");*/
 }
